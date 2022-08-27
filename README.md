@@ -15,7 +15,6 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
 ```
 python -m venv .\venv\
 venv\Scripts\activate
-
 ```
 - [ ] Instalar o Django
 - [ ] Criar o projeto PersonalCheff
