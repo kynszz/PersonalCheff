@@ -46,8 +46,12 @@ python manage,py runserver
 ```
  - criou o app
  ```
- 
-- [ ] Registrar o app receitas
+
+- [X] Registrar o app receitas
+```
+no aruqivo settings.py adicionar o app receitas na lista de app
+````
+
 - [ ] Configurar a rota inicial(index)
 - [ ] Criar a view para a rota inicial
 - [ ] Registrar a rota inicial
