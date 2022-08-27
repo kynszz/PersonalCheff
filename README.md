@@ -35,9 +35,16 @@ cd PersonaCheffProj
 executar o projeto no servidor
 python manage,py runserver
 ```
+- [X] Alterar o idioma do projeto para `pt-br`
 
-- [ ] Alterar o idioma do projeto para `pt-br`
-- [ ] Alterar o timezone do projeto para `America/Sao_Paulo`
+- Abrir o idioma do projeto para pt-b
+- na 'linha 106' mudou para pt-br
+
+- [X] Alterar o timezone do projeto para `America/Sao_Paulo`
+
+
+
+
 - [ ] Criar o app receitas
 - [ ] Registrar o app receitas
 - [ ] Configurar a rota inicial(index)
