@@ -42,10 +42,11 @@ python manage,py runserver
 
 - [X] Alterar o timezone do projeto para `America/Sao_Paulo`
 
-
-
-
-- [ ] Criar o app receitas
+- [X] Criar o app receitas
+```
+ - criou o app
+ ```
+ 
 - [ ] Registrar o app receitas
 - [ ] Configurar a rota inicial(index)
 - [ ] Criar a view para a rota inicial
