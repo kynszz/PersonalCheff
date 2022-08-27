@@ -37,7 +37,7 @@ python manage,py runserver
 ```
 - [X] Alterar o idioma do projeto para `pt-br`
 
-- Abrir o idioma do projeto para pt-b
+- Abrir o idioma do projeto para pt-br
 - na 'linha 106' mudou para pt-br
 
 - [X] Alterar o timezone do projeto para `America/Sao_Paulo`
@@ -52,9 +52,9 @@ python manage,py runserver
 no aruqivo settings.py adicionar o app receitas na lista de app
 ````
 
-- [ ] Configurar a rota inicial(index)
-- [ ] Criar a view para a rota inicial
-- [ ] Registrar a rota inicial
+- [X] Configurar a rota inicial(index)
+- [X] Criar a view para a rota inicial
+- [X] Registrar a rota inicial
 - [ ] Criar o arquivo index
 
 ## 📝 Licença
