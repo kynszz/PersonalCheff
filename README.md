@@ -9,7 +9,7 @@
 ### Lista de tarefas
 Segue a lista de tarefas a serem desenvolvidas no projeto:
 - [X] Pré-requisitos
-      [X] Instalar o python
+    - [X] Instalar o python
     - [X] Instalar Visual Studio Code
 - [ ] Criar e ativar o ambiente virtual
 - [ ] Instalar o Django
