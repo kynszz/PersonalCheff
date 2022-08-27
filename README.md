@@ -27,7 +27,15 @@ django-admin.py startproject PersonalCheffProject
 PersonalCheffProj
 ```
 
-- [ ] Subir o servidor e testar o projeto
+- [X] Subir o servidor e testar o projet
+```
+entrar na pasta do projeto
+cd PersonaCheffProj
+
+executar o projeto no servidor
+python manage,py runserver
+```
+
 - [ ] Alterar o idioma do projeto para `pt-br`
 - [ ] Alterar o timezone do projeto para `America/Sao_Paulo`
 - [ ] Criar o app receitas
